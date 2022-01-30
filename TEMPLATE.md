@@ -1,21 +1,24 @@
 Android development
 <br>
 How to reach me : rgill1@protonmail.com <t>|<t> [linkedin](linkedin.com/in/rahul-gill-466a1620a/)
+ 
+  <p align="center">
+<img src=https://github.com/rahul-gill/rahul-gill/blob/master/images/stat.svg alt="image"/>
+</p>
 
-Account age: **{{ ACCOUNT_AGE }}** years
+  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rahul-gill&count_private=true&theme=merko&show_icons=true" alt="image" />
+</p>
 
-Pushed **{{ COMMITS }}** commits
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-gill&layout=compact" alt="image" />
+</p>
 
-Opened **{{ ISSUES }}** issues
-
-Submitted **{{ PULL_REQUESTS }}** pull requests
-
-Received **{{ STARS }}** stars
-
-Contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories
-
-Top 4 most used languages across repositories:
-
-{{ LANGUAGE_TEMPLATE_START:max=4 }}
-![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
-{{ LANGUAGE_TEMPLATE_END }}
+  
+  
+  [![Top Langs]()](https://github.com/anuraghazra/github-readme-stats)
+  
+  <p align="center">
+<img src="https://komarev.com/ghpvc/?username=rahul-gill&color=red" alt="image" />
+ </p>
