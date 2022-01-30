@@ -2,21 +2,21 @@ Android development
 <br>
 How to reach me : rgill1@protonmail.com <t>|<t> [linkedin](linkedin.com/in/rahul-gill-466a1620a/)
 
-Account age: **{{ ACCOUNT_AGE }}** years
+Account age: **1** years
 
-Pushed **{{ COMMITS }}** commits
+Pushed **147** commits
 
-Opened **{{ ISSUES }}** issues
+Opened **0** issues
 
-Submitted **{{ PULL_REQUESTS }}** pull requests
+Submitted **1** pull requests
 
-Received **{{ STARS }}** stars
+Received **1** stars
 
-Contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories
+Contributed to **0** public repositories
 
 Top 4 most used languages across repositories:
 
-{{ LANGUAGE_TEMPLATE_START:max=4 }}
-![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
-{{ LANGUAGE_TEMPLATE_END }}
-
+![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B186.5%25)
+![Kotlin](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23A97BFF&message=Kotlin%EF%B8%B17.8%25)
+![C++](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f34b7d&message=C%2B%2B%EF%B8%B12.8%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B12.6%25)
