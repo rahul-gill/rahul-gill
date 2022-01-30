@@ -12,7 +12,7 @@ How to reach me : rgill1@protonmail.com <t>|<t> [linkedin](linkedin.com/in/rahul
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-gill&layout=compact" alt="image" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-gill&theme=merko&layout=compact" alt="image" />
 </p>
 
   
