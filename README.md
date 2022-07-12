@@ -10,7 +10,7 @@
     <a href="mailto:rgill1@protonmail.com">
       <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=protonmail&logoColor=white%22" alt="Mail"/>
     </a>
-      <a href="rahul-gill.github.io/">
+      <a href="https://rahul-gill.github.io/">
       <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=react&logoColor=white%22" alt="Website"/>
     </a>
   </div>
