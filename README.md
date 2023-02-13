@@ -1,7 +1,12 @@
 
-<div id="header" align="center">
-  
-  <img src="https://media0.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif?cid=ecf05e47jtowmi39c3wxu9vucjzq3cmerwhni0yoo1kddoia&rid=giphy.gif&ct=g" width="200" />
+
+- 🌍  I'm based
+- 🧠  I'm learning things about computer science.
+- 💸  I'm up for a great job.
+
+
+<div id="header" >
+
   
    <div id="badges">
     <a href="https://linkedin.com/in/rahul-gill-466a1620a/">
