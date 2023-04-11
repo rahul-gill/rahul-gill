@@ -1,7 +1,7 @@
 
 
 - 🌍  I'm based
-- 🧠  I'm learning things about computer science.
+- 🧠  I'm learning things about computer science and engneering.
 - 💸  I'm up for a great job.
 
 
