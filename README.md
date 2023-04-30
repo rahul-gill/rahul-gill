@@ -1,9 +1,4 @@
-
-
-- 🌍  I'm based
-- 🧠  I'm learning things about computer science and engneering.
-- 💸  I'm up for a great job.
-
+I have done some Android projects and internships, I'm also trying other domains too. I'm on the lookout for exciting new opportunities to learn, grow, and challenge myself. I'm currently seeking new opportunities(preferably backend side but I know Android better). If you're searching for a dynamic and adaptable professional who can thrive in any environment, then  let's connect!
 
 <div id="header" >
 
