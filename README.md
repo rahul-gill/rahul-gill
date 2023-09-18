@@ -1,4 +1,4 @@
-I have done some Android projects and internships, I'm also trying other domains too. I'm on the lookout for exciting new opportunities to learn, grow, and challenge myself. I'm currently seeking new opportunities(preferably backend side but I know Android better). If you're searching for a dynamic and adaptable professional who can thrive in any environment, then  let's connect!
+![https://metrics.lecoq.io/rahul-gill](https://metrics.lecoq.io/rahul-gill)
 
 <div id="header" >
 
