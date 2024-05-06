@@ -1,5 +1,3 @@
-![https://metrics.lecoq.io/rahul-gill](https://metrics.lecoq.io/rahul-gill)
-
 <div id="header" >
 
   
