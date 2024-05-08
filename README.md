@@ -14,6 +14,5 @@
   </div>
   
   
-  <img src="https://komarev.com/ghpvc/?username=rahul-gill&style=flat-square&color=green" alt=""/>
   
 </div>
