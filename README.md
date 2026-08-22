@@ -1,7 +1,6 @@
 <div id="header" >
 
-    <img width="300" alt="sleeping-beauty" src="https://github.com/user-attachments/assets/83b0622d-61b8-473e-a50f-4690239e2c09" />
-
+    
   
    <div id="badges">
     <a href="https://linkedin.com/in/rahul-gill-466a1620a/">
@@ -18,3 +17,5 @@
   
   
 </div>
+
+<img width="300" alt="sleeping-beauty" src="https://github.com/user-attachments/assets/83b0622d-61b8-473e-a50f-4690239e2c09" />
