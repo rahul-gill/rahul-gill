@@ -18,4 +18,4 @@
   
 </div>
 
-<img width="300" alt="sleeping-beauty" src="https://github.com/user-attachments/assets/83b0622d-61b8-473e-a50f-4690239e2c09" />
+<img width="300" height="401"  alt="sleeping-beauty" src="https://github.com/user-attachments/assets/83b0622d-61b8-473e-a50f-4690239e2c09" />
